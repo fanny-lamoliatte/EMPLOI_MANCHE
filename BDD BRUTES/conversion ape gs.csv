@@ -1,0 +1,733 @@
+﻿code NAF,GS,Libellé NAF,Code A38
+01.11Z,GS0,"Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses",AZ
+01.12Z,GS0,Culture du riz,AZ
+01.13Z,GS0,"Culture de légumes, de melons, de racines et de tubercules",AZ
+01.14Z,GS0,Culture de la canne à sucre,AZ
+01.15Z,GS0,Culture du tabac,AZ
+01.16Z,GS0,Culture de plantes à fibres,AZ
+01.19Z,GS0,Autres cultures non permanentes,AZ
+01.21Z,GS0,Culture de la vigne,AZ
+01.22Z,GS0,Culture de fruits tropicaux et subtropicaux,AZ
+01.23Z,GS0,Culture d'agrumes,AZ
+01.24Z,GS0,Culture de fruits à pépins et à noyau,AZ
+01.25Z,GS0,Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque,AZ
+01.26Z,GS0,Culture de fruits oléagineux,AZ
+01.27Z,GS0,Culture de plantes à boissons,AZ
+01.28Z,GS0,"Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques",AZ
+01.29Z,GS0,Autres cultures permanentes,AZ
+01.30Z,GS0,Reproduction de plantes,AZ
+01.41Z,GS0,Élevage de vaches laitières,AZ
+01.42Z,GS0,Élevage d'autres bovins et de buffles,AZ
+01.43Z,GS0,Élevage de chevaux et d'autres équidés,AZ
+01.44Z,GS0,Élevage de chameaux et d'autres camélidés,AZ
+01.45Z,GS0,Élevage d'ovins et de caprins,AZ
+01.46Z,GS0,Élevage de porcins,AZ
+01.47Z,GS0,Élevage de volailles,AZ
+01.49Z,GS0,Élevage d'autres animaux,AZ
+01.50Z,GS0,Culture et élevage associés,AZ
+01.61Z,GS0,Activités de soutien aux cultures,AZ
+01.62Z,GS0,Activités de soutien à la production animale,AZ
+01.63Z,GS0,Traitement primaire des récoltes,AZ
+01.64Z,GS0,Traitement des semences,AZ
+01.70Z,GS0,"Chasse, piégeage et services annexes",AZ
+02.10Z,GS0,Sylviculture et autres activités forestières,AZ
+02.20Z,GS0,Exploitation forestière,AZ
+02.30Z,GS0,Récolte de produits forestiers non ligneux poussant à l'état sauvage,AZ
+02.40Z,GS0,Services de soutien à l'exploitation forestière,AZ
+03.11Z,GS0,Pêche en mer,AZ
+03.12Z,GS0,Pêche en eau douce,AZ
+03.21Z,GS0,Aquaculture en mer,AZ
+03.22Z,GS0,Aquaculture en eau douce,AZ
+05.10Z,GS1,Extraction de houille,BZ
+05.20Z,GS1,Extraction de lignite,BZ
+06.10Z,GS1,Extraction de pétrole brut,BZ
+06.20Z,GS1,Extraction de gaz naturel,BZ
+07.10Z,GS1,Extraction de minerais de fer,BZ
+07.21Z,GS1,Extraction de minerais d'uranium et de thorium,BZ
+07.29Z,GS1,Extraction d'autres minerais de métaux non ferreux,BZ
+08.11Z,GS1,"Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise",BZ
+08.12Z,GS1,"Exploitation de gravières et sablières, extraction d'argiles et de kaolin",BZ
+08.91Z,GS1,Extraction des minéraux chimiques et d'engrais minéraux,BZ
+08.92Z,GS1,Extraction de tourbe,BZ
+08.93Z,GS1,Production de sel,BZ
+08.99Z,GS1,Autres activités extractives n.c.a.,BZ
+09.10Z,GS1,Activités de soutien à l'extraction d'hydrocarbures,BZ
+09.90Z,GS1,Activités de soutien aux autres industries extractives,BZ
+10.11Z,GS1,Transformation et conservation de la viande de boucherie,CA
+10.12Z,GS1,Transformation et conservation de la viande de volaille,CA
+10.13A,GS1,Préparation industrielle de produits à base de viande,CA
+10.13B,GS1,Charcuterie,CA
+10.20Z,GS1,"Transformation et conservation de poisson, de crustacés et de mollusques",CA
+10.31Z,GS1,Transformation et conservation de pommes de terre,CA
+10.32Z,GS1,Préparation de jus de fruits et légumes,CA
+10.39A,GS1,Autre transformation et conservation de légumes,CA
+10.39B,GS1,Transformation et conservation de fruits,CA
+10.41A,GS1,Fabrication d'huiles et graisses brutes,CA
+10.41B,GS1,Fabrication d'huiles et graisses raffinées,CA
+10.42Z,GS1,Fabrication de margarine et graisses comestibles similaires,CA
+10.51A,GS1,Fabrication de lait liquide et de produits frais,CA
+10.51B,GS1,Fabrication de beurre,CA
+10.51C,GS1,Fabrication de fromage,CA
+10.51D,GS1,Fabrication d'autres produits laitiers,CA
+10.52Z,GS1,Fabrication de glaces et sorbets,CA
+10.61A,GS1,Meunerie,CA
+10.61B,GS1,Autres activités du travail des grains,CA
+10.62Z,GS1,Fabrication de produits amylacés,CA
+10.71A,GS1,Fabrication industrielle de pain et de pâtisserie fraîche,CA
+10.71B,GS1,Cuisson de produits de boulangerie,CA
+10.71C,GS1,Boulangerie et boulangerie-pâtisserie,CA
+10.71D,GS1,Pâtisserie,CA
+10.72Z,GS1,"Fabrication de biscuits, biscottes et pâtisseries de conservation",CA
+10.73Z,GS1,Fabrication de pâtes alimentaires,CA
+10.81Z,GS1,Fabrication de sucre,CA
+10.82Z,GS1,"Fabrication de cacao, chocolat et de produits de confiserie",CA
+10.83Z,GS1,Transformation du thé et du café,CA
+10.84Z,GS1,Fabrication de condiments et assaisonnements,CA
+10.85Z,GS1,Fabrication de plats préparés,CA
+10.86Z,GS1,Fabrication d'aliments homogénéisés et diététiques,CA
+10.89Z,GS1,Fabrication d'autres produits alimentaires n.c.a.,CA
+10.91Z,GS1,Fabrication d'aliments pour animaux de ferme,CA
+10.92Z,GS1,Fabrication d'aliments pour animaux de compagnie,CA
+11.01Z,GS1,Production de boissons alcooliques distillées,CA
+11.02A,GS1,Fabrication de vins effervescents,CA
+11.02B,GS1,Vinification,CA
+11.03Z,GS1,Fabrication de cidre et de vins de fruits,CA
+11.04Z,GS1,Production d'autres boissons fermentées non distillées,CA
+11.05Z,GS1,Fabrication de bière,CA
+11.06Z,GS1,Fabrication de malt,CA
+11.07A,GS1,Industrie des eaux de table,CA
+11.07B,GS1,Production de boissons rafraîchissantes,CA
+12.00Z,GS1,Fabrication de produits à base de tabac,CA
+13.10Z,GS1,Préparation de fibres textiles et filature,CB
+13.20Z,GS1,Tissage,CB
+13.30Z,GS1,Ennoblissement textile,CB
+13.91Z,GS1,Fabrication d'étoffes à mailles,CB
+13.92Z,GS1,"Fabrication d'articles textiles, sauf habillement",CB
+13.93Z,GS1,Fabrication de tapis et moquettes,CB
+13.94Z,GS1,"Fabrication de ficelles, cordes et filets",CB
+13.95Z,GS1,"Fabrication de non-tissés, sauf habillement",CB
+13.96Z,GS1,Fabrication d'autres textiles techniques et industriels,CB
+13.99Z,GS1,Fabrication d'autres textiles n.c.a.,CB
+14.11Z,GS1,Fabrication de vêtements en cuir,CB
+14.12Z,GS1,Fabrication de vêtements de travail,CB
+14.13Z,GS1,Fabrication de vêtements de dessus,CB
+14.14Z,GS1,Fabrication de vêtements de dessous,CB
+14.19Z,GS1,Fabrication d'autres vêtements et accessoires,CB
+14.20Z,GS1,Fabrication d'articles en fourrure,CB
+14.31Z,GS1,Fabrication d'articles chaussants à mailles,CB
+14.39Z,GS1,Fabrication d'autres articles à mailles,CB
+15.11Z,GS1,Apprêt et tannage des cuirs ; préparation et teinture des fourrures,CB
+15.12Z,GS1,"Fabrication d'articles de voyage, de maroquinerie et de sellerie",CB
+15.20Z,GS1,Fabrication de chaussures,CB
+16.10A,GS1,"Sciage et rabotage du bois, hors imprégnation",CC
+16.10B,GS1,Imprégnation du bois,CC
+16.21Z,GS1,Fabrication de placage et de panneaux de bois,CC
+16.22Z,GS1,Fabrication de parquets assemblés,CC
+16.23Z,GS1,Fabrication de charpentes et d'autres menuiseries,CC
+16.24Z,GS1,Fabrication d'emballages en bois,CC
+16.29Z,GS1,"Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie",CC
+17.11Z,GS1,Fabrication de pâte à papier,CC
+17.12Z,GS1,Fabrication de papier et de carton,CC
+17.21A,GS1,Fabrication de carton ondulé,CC
+17.21B,GS1,Fabrication de cartonnages,CC
+17.21C,GS1,Fabrication d'emballages en papier,CC
+17.22Z,GS1,Fabrication d'articles en papier à usage sanitaire ou domestique,CC
+17.23Z,GS1,Fabrication d'articles de papeterie,CC
+17.24Z,GS1,Fabrication de papiers peints,CC
+17.29Z,GS1,Fabrication d'autres articles en papier ou en carton,CC
+18.11Z,GS1,Imprimerie de journaux,CC
+18.12Z,GS1,Autre imprimerie (labeur),CC
+18.13Z,GS1,Activités de pré-presse,CC
+18.14Z,GS1,Reliure et activités connexes,CC
+18.20Z,GS1,Reproduction d'enregistrements,CC
+19.10Z,GS1,Cokéfaction,CD
+19.20Z,GS1,Raffinage du pétrole,CD
+20.11Z,GS1,Fabrication de gaz industriels,CE
+20.12Z,GS1,Fabrication de colorants et de pigments,CE
+20.13A,GS1,Enrichissement et retraitement de matières nucléaires,CE
+20.13B,GS1,Fabrication d'autres produits chimiques inorganiques de base n.c.a.,CE
+20.14Z,GS1,Fabrication d'autres produits chimiques organiques de base,CE
+20.15Z,GS1,Fabrication de produits azotés et d'engrais,CE
+20.16Z,GS1,Fabrication de matières plastiques de base,CE
+20.17Z,GS1,Fabrication de caoutchouc synthétique,CE
+20.20Z,GS1,Fabrication de pesticides et d'autres produits agrochimiques,CE
+20.30Z,GS1,"Fabrication de peintures, vernis, encres et mastics",CE
+20.41Z,GS1,"Fabrication de savons, détergents et produits d'entretien",CE
+20.42Z,GS1,Fabrication de parfums et de produits pour la toilette,CE
+20.51Z,GS1,Fabrication de produits explosifs,CE
+20.52Z,GS1,Fabrication de colles,CE
+20.53Z,GS1,Fabrication d'huiles essentielles,CE
+20.59Z,GS1,Fabrication d'autres produits chimiques n.c.a.,CE
+20.60Z,GS1,Fabrication de fibres artificielles ou synthétiques,CE
+21.10Z,GS1,Fabrication de produits pharmaceutiques de base,CF
+21.20Z,GS1,Fabrication de préparations pharmaceutiques,CF
+22.11Z,GS1,Fabrication et rechapage de pneumatiques,CG
+22.19Z,GS1,Fabrication d'autres articles en caoutchouc,CG
+22.21Z,GS1,"Fabrication de plaques, feuilles, tubes et profilés en matières plastiques",CG
+22.22Z,GS1,Fabrication d'emballages en matières plastiques,CG
+22.23Z,GS1,Fabrication d'éléments en matières plastiques pour la construction,CG
+22.29A,GS1,Fabrication de pièces techniques à base de matières plastiques,CG
+22.29B,GS1,Fabrication de produits de consommation courante en matières plastiques,CG
+23.11Z,GS1,Fabrication de verre plat,CG
+23.12Z,GS1,Façonnage et transformation du verre plat,CG
+23.13Z,GS1,Fabrication de verre creux,CG
+23.14Z,GS1,Fabrication de fibres de verre,CG
+23.19Z,GS1,"Fabrication et façonnage d'autres articles en verre, y compris verre technique",CG
+23.20Z,GS1,Fabrication de produits réfractaires,CG
+23.31Z,GS1,Fabrication de carreaux en céramique,CG
+23.32Z,GS1,"Fabrication de briques, tuiles et produits de construction, en terre cuite",CG
+23.41Z,GS1,Fabrication d'articles céramiques à usage domestique ou ornemental,CG
+23.42Z,GS1,Fabrication d'appareils sanitaires en céramique,CG
+23.43Z,GS1,Fabrication d'isolateurs et pièces isolantes en céramique,CG
+23.44Z,GS1,Fabrication d'autres produits céramiques à usage technique,CG
+23.49Z,GS1,Fabrication d'autres produits céramiques,CG
+23.51Z,GS1,Fabrication de ciment,CG
+23.52Z,GS1,Fabrication de chaux et plâtre,CG
+23.61Z,GS1,Fabrication d'éléments en béton pour la construction,CG
+23.62Z,GS1,Fabrication d'éléments en plâtre pour la construction,CG
+23.63Z,GS1,Fabrication de béton prêt à l'emploi,CG
+23.64Z,GS1,Fabrication de mortiers et bétons secs,CG
+23.65Z,GS1,Fabrication d'ouvrages en fibre-ciment,CG
+23.69Z,GS1,"Fabrication d'autres ouvrages en béton, en ciment ou en plâtre",CG
+23.70Z,GS1,"Taille, façonnage et finissage de pierres",CG
+23.91Z,GS1,Fabrication de produits abrasifs,CG
+23.99Z,GS1,Fabrication d'autres produits minéraux non métalliques n.c.a.,CG
+24.10Z,GS1,Sidérurgie,CH
+24.20Z,GS1,"Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier",CH
+24.31Z,GS1,Étirage à froid de barres,CH
+24.32Z,GS1,Laminage à froid de feuillards,CH
+24.33Z,GS1,Profilage à froid par formage ou pliage,CH
+24.34Z,GS1,Tréfilage à froid,CH
+24.41Z,GS1,Production de métaux précieux,CH
+24.42Z,GS1,Métallurgie de l'aluminium,CH
+24.43Z,GS1,"Métallurgie du plomb, du zinc ou de l'étain",CH
+24.44Z,GS1,Métallurgie du cuivre,CH
+24.45Z,GS1,Métallurgie des autres métaux non ferreux,CH
+24.46Z,GS1,Élaboration et transformation de matières nucléaires,CH
+24.51Z,GS1,Fonderie de fonte,CH
+24.52Z,GS1,Fonderie d'acier,CH
+24.53Z,GS1,Fonderie de métaux légers,CH
+24.54Z,GS1,Fonderie d'autres métaux non ferreux,CH
+25.11Z,GS1,Fabrication de structures métalliques et de parties de structures,CH
+25.12Z,GS1,Fabrication de portes et fenêtres en métal,CH
+25.21Z,GS1,Fabrication de radiateurs et de chaudières pour le chauffage central,CH
+25.29Z,GS1,"Fabrication d'autres réservoirs, citernes et conteneurs métalliques",CH
+25.30Z,GS1,"Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central",CH
+25.40Z,GS1,Fabrication d'armes et de munitions,CH
+25.50A,GS1,"Forge, estampage, matriçage ; métallurgie des poudres",CH
+25.50B,GS1,"Découpage, emboutissage",CH
+25.61Z,GS1,Traitement et revêtement des métaux,CH
+25.62A,GS1,Décolletage,CH
+25.62B,GS1,Mécanique industrielle,CH
+25.71Z,GS1,Fabrication de coutellerie,CH
+25.72Z,GS1,Fabrication de serrures et de ferrures,CH
+25.73A,GS1,Fabrication de moules et modèles,CH
+25.73B,GS1,Fabrication d'autres outillages,CH
+25.91Z,GS1,Fabrication de fûts et emballages métalliques similaires,CH
+25.92Z,GS1,Fabrication d'emballages métalliques légers,CH
+25.93Z,GS1,"Fabrication d'articles en fils métalliques, de chaînes et de ressorts",CH
+25.94Z,GS1,Fabrication de vis et de boulons,CH
+25.99A,GS1,Fabrication d'articles métalliques ménagers,CH
+25.99B,GS1,Fabrication d'autres articles métalliques,CH
+26.11Z,GS1,Fabrication de composants électroniques,CI
+26.12Z,GS1,Fabrication de cartes électroniques assemblées,CI
+26.20Z,GS1,Fabrication d'ordinateurs et d'équipements périphériques,CI
+26.30Z,GS1,Fabrication d'équipements de communication,CI
+26.40Z,GS1,Fabrication de produits électroniques grand public,CI
+26.51A,GS1,Fabrication d'équipements d'aide à la navigation,CI
+26.51B,GS1,Fabrication d'instrumentation scientifique et technique,CI
+26.52Z,GS1,Horlogerie,CI
+26.60Z,GS1,"Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques",CI
+26.70Z,GS1,Fabrication de matériels optique et photographique,CI
+26.80Z,GS1,Fabrication de supports magnétiques et optiques,CI
+27.11Z,GS1,"Fabrication de moteurs, génératrices et transformateurs électriques",CJ
+27.12Z,GS1,Fabrication de matériel de distribution et de commande électrique,CJ
+27.20Z,GS1,Fabrication de piles et d'accumulateurs électriques,CJ
+27.31Z,GS1,Fabrication de câbles de fibres optiques,CJ
+27.32Z,GS1,Fabrication d'autres fils et câbles électroniques ou électriques,CJ
+27.33Z,GS1,Fabrication de matériel d'installation électrique,CJ
+27.40Z,GS1,Fabrication d'appareils d'éclairage électrique,CJ
+27.51Z,GS1,Fabrication d'appareils électroménagers,CJ
+27.52Z,GS1,Fabrication d'appareils ménagers non électriques,CJ
+27.90Z,GS1,Fabrication d'autres matériels électriques,CJ
+28.11Z,GS1,"Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules",CK
+28.12Z,GS1,Fabrication d'équipements hydrauliques et pneumatiques,CK
+28.13Z,GS1,Fabrication d'autres pompes et compresseurs,CK
+28.14Z,GS1,Fabrication d'autres articles de robinetterie,CK
+28.15Z,GS1,Fabrication d'engrenages et d'organes mécaniques de transmission,CK
+28.21Z,GS1,Fabrication de fours et brûleurs,CK
+28.22Z,GS1,Fabrication de matériel de levage et de manutention,CK
+28.23Z,GS1,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),CK
+28.24Z,GS1,Fabrication d'outillage portatif à moteur incorporé,CK
+28.25Z,GS1,Fabrication d'équipements aérauliques et frigorifiques industriels,CK
+28.29A,GS1,"Fabrication d'équipements d'emballage, de conditionnement et de pesage",CK
+28.29B,GS1,Fabrication d'autres machines d'usage général,CK
+28.30Z,GS1,Fabrication de machines agricoles et forestières,CK
+28.41Z,GS1,Fabrication de machines-outils pour le travail des métaux,CK
+28.49Z,GS1,Fabrication d'autres machines-outils,CK
+28.91Z,GS1,Fabrication de machines pour la métallurgie,CK
+28.92Z,GS1,Fabrication de machines pour l'extraction ou la construction,CK
+28.93Z,GS1,Fabrication de machines pour l'industrie agro-alimentaire,CK
+28.94Z,GS1,Fabrication de machines pour les industries textiles,CK
+28.95Z,GS1,Fabrication de machines pour les industries du papier et du carton,CK
+28.96Z,GS1,Fabrication de machines pour le travail du caoutchouc ou des plastiques,CK
+28.99A,GS1,Fabrication de machines d'imprimerie,CK
+28.99B,GS1,Fabrication d'autres machines spécialisées,CK
+29.10Z,GS1,Construction de véhicules automobiles,CL
+29.20Z,GS1,Fabrication de carrosseries et remorques,CL
+29.31Z,GS1,Fabrication d'équipements électriques et électroniques automobiles,CL
+29.32Z,GS1,Fabrication d'autres équipements automobiles,CL
+30.11Z,GS1,Construction de navires et de structures flottantes,CL
+30.12Z,GS1,Construction de bateaux de plaisance,CL
+30.20Z,GS1,Construction de locomotives et d'autre matériel ferroviaire roulant,CL
+30.30Z,GS1,Construction aéronautique et spatiale,CL
+30.40Z,GS1,Construction de véhicules militaires de combat,CL
+30.91Z,GS1,Fabrication de motocycles,CL
+30.92Z,GS1,Fabrication de bicyclettes et de véhicules pour invalides,CL
+30.99Z,GS1,Fabrication d'autres équipements de transport n.c.a.,CL
+31.01Z,GS1,Fabrication de meubles de bureau et de magasin,CM
+31.02Z,GS1,Fabrication de meubles de cuisine,CM
+31.03Z,GS1,Fabrication de matelas,CM
+31.09A,GS1,Fabrication de sièges d'ameublement d'intérieur,CM
+31.09B,GS1,Fabrication d'autres meubles et industries connexes de l'ameublement,CM
+32.11Z,GS1,Frappe de monnaie,CM
+32.12Z,GS1,Fabrication d'articles de joaillerie et bijouterie,CM
+32.13Z,GS1,Fabrication d'articles de bijouterie fantaisie et articles similaires,CM
+32.20Z,GS1,Fabrication d'instruments de musique,CM
+32.30Z,GS1,Fabrication d'articles de sport,CM
+32.40Z,GS1,Fabrication de jeux et jouets,CM
+32.50A,GS1,Fabrication de matériel médico-chirurgical et dentaire,CM
+32.50B,GS1,Fabrication de lunettes,CM
+32.91Z,GS1,Fabrication d'articles de brosserie,CM
+32.99Z,GS1,Autres activités manufacturières n.c.a.,CM
+33.11Z,GS1,Réparation d'ouvrages en métaux,CM
+33.12Z,GS1,Réparation de machines et équipements mécaniques,CM
+33.13Z,GS1,Réparation de matériels électroniques et optiques,CM
+33.14Z,GS1,Réparation d'équipements électriques,CM
+33.15Z,GS1,Réparation et maintenance navale,CM
+33.16Z,GS1,Réparation et maintenance d'aéronefs et d'engins spatiaux,CM
+33.17Z,GS1,Réparation et maintenance d'autres équipements de transport,CM
+33.19Z,GS1,Réparation d'autres équipements,CM
+33.20A,GS1,"Installation de structures métalliques, chaudronnées et de tuyauterie",CM
+33.20B,GS1,Installation de machines et équipements mécaniques,CM
+33.20C,GS1,Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels,CM
+33.20D,GS1,"Installation d'équipements électriques, de matériels électroniques et optiques ou d'autres matériels",CM
+35.11Z,GS1,Production d'électricité,DZ
+35.12Z,GS1,Transport d'électricité,DZ
+35.13Z,GS1,Distribution d'électricité,DZ
+35.14Z,GS1,Commerce d'électricité,DZ
+35.21Z,GS1,Production de combustibles gazeux,DZ
+35.22Z,GS1,Distribution de combustibles gazeux par conduites,DZ
+35.23Z,GS1,Commerce de combustibles gazeux par conduites,DZ
+35.30Z,GS1,Production et distribution de vapeur et d'air conditionné,DZ
+36.00Z,GS1,"Captage, traitement et distribution d'eau",EZ
+37.00Z,GS1,Collecte et traitement des eaux usées,EZ
+38.11Z,GS1,Collecte des déchets non dangereux,EZ
+38.12Z,GS1,Collecte des déchets dangereux,EZ
+38.21Z,GS1,Traitement et élimination des déchets non dangereux,EZ
+38.22Z,GS1,Traitement et élimination des déchets dangereux,EZ
+38.31Z,GS1,Démantèlement d'épaves,EZ
+38.32Z,GS1,Récupération de déchets triés,EZ
+39.00Z,GS1,Dépollution et autres services de gestion des déchets,EZ
+41.10A,GS2,Promotion immobilière de logements,FZ
+41.10B,GS2,Promotion immobilière de bureaux,FZ
+41.10C,GS2,Promotion immobilière d'autres bâtiments,FZ
+41.10D,GS2,Supports juridiques de programmes,FZ
+41.20A,GS2,Construction de maisons individuelles,FZ
+41.20B,GS2,Construction d'autres bâtiments,FZ
+42.11Z,GS2,Construction de routes et autoroutes,FZ
+42.12Z,GS2,Construction de voies ferrées de surface et souterraines,FZ
+42.13A,GS2,Construction d'ouvrages d'art,FZ
+42.13B,GS2,Construction et entretien de tunnels,FZ
+42.21Z,GS2,Construction de réseaux pour fluides,FZ
+42.22Z,GS2,Construction de réseaux électriques et de télécommunications,FZ
+42.91Z,GS2,Construction d'ouvrages maritimes et fluviaux,FZ
+42.99Z,GS2,Construction d'autres ouvrages de génie civil n.c.a.,FZ
+43.11Z,GS2,Travaux de démolition,FZ
+43.12A,GS2,Travaux de terrassement courants et travaux préparatoires,FZ
+43.12B,GS2,Travaux de terrassement spécialisés ou de grande masse,FZ
+43.13Z,GS2,Forages et sondages,FZ
+43.21A,GS2,Travaux d'installation électrique dans tous locaux,FZ
+43.21B,GS2,Travaux d'installation électrique sur la voie publique,FZ
+43.22A,GS2,Travaux d'installation d'eau et de gaz en tous locaux,FZ
+43.22B,GS2,Travaux d'installation d'équipements thermiques et de climatisation,FZ
+43.29A,GS2,Travaux d'isolation,FZ
+43.29B,GS2,Autres travaux d'installation n.c.a.,FZ
+43.31Z,GS2,Travaux de plâtrerie,FZ
+43.32A,GS2,Travaux de menuiserie bois et PVC,FZ
+43.32B,GS2,Travaux de menuiserie métallique et serrurerie,FZ
+43.32C,GS2,Agencement de lieux de vente,FZ
+43.33Z,GS2,Travaux de revêtement des sols et des murs,FZ
+43.34Z,GS2,Travaux de peinture et vitrerie,FZ
+43.39Z,GS2,Autres travaux de finition,FZ
+43.91A,GS2,Travaux de charpente,FZ
+43.91B,GS2,Travaux de couverture par éléments,FZ
+43.99A,GS2,Travaux d'étanchéification,FZ
+43.99B,GS2,Travaux de montage de structures métalliques,FZ
+43.99C,GS2,Travaux de maçonnerie générale et gros œuvre de bâtiment,FZ
+43.99D,GS2,Autres travaux spécialisés de construction,FZ
+43.99E,GS2,Location avec opérateur de matériel de construction,FZ
+45.11Z,GS3,Commerce de voitures et de véhicules automobiles légers,GZ
+45.19Z,GS3,Commerce d'autres véhicules automobiles,GZ
+45.20A,GS3,Entretien et réparation de véhicules automobiles légers,GZ
+45.20B,GS3,Entretien et réparation d'autres véhicules automobiles,GZ
+45.31Z,GS3,Commerce de gros d'équipements automobiles,GZ
+45.32Z,GS3,Commerce de détail d'équipements automobiles,GZ
+45.40Z,GS3,Commerce et réparation de motocycles,GZ
+46.11Z,GS3,"Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis",GZ
+46.12A,GS3,Centrales d'achat de carburant,GZ
+46.12B,GS3,"Autres intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques",GZ
+46.13Z,GS3,Intermédiaires du commerce en bois et matériaux de construction,GZ
+46.14Z,GS3,"Intermédiaires du commerce en machines, équipements industriels, navires et avions",GZ
+46.15Z,GS3,"Intermédiaires du commerce en meubles, articles de ménage et quincaillerie",GZ
+46.16Z,GS3,"Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir",GZ
+46.17A,GS3,Centrales d'achat alimentaires,GZ
+46.17B,GS3,"Autres intermédiaires du commerce en denrées, boissons et tabac",GZ
+46.18Z,GS3,Intermédiaires spécialisés dans le commerce d'autres produits spécifiques,GZ
+46.19A,GS3,Centrales d'achat non alimentaires,GZ
+46.19B,GS3,Autres intermédiaires du commerce en produits divers,GZ
+46.21Z,GS3,"Commerce de gros (commerce interentreprises) de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail",GZ
+46.22Z,GS3,Commerce de gros (commerce interentreprises) de fleurs et plantes,GZ
+46.23Z,GS3,Commerce de gros (commerce interentreprises) d'animaux vivants,GZ
+46.24Z,GS3,Commerce de gros (commerce interentreprises) de cuirs et peaux,GZ
+46.31Z,GS3,Commerce de gros (commerce interentreprises) de fruits et légumes,GZ
+46.32A,GS3,Commerce de gros (commerce interentreprises) de viandes de boucherie,GZ
+46.32B,GS3,Commerce de gros (commerce interentreprises) de produits à base de viande,GZ
+46.32C,GS3,Commerce de gros (commerce interentreprises) de volailles et gibier,GZ
+46.33Z,GS3,"Commerce de gros (commerce interentreprises) de produits laitiers, œufs, huiles et matières grasses comestibles",GZ
+46.34Z,GS3,Commerce de gros (commerce interentreprises) de boissons,GZ
+46.35Z,GS3,Commerce de gros (commerce interentreprises) de produits à base de tabac,GZ
+46.36Z,GS3,"Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie",GZ
+46.37Z,GS3,"Commerce de gros (commerce interentreprises) de café, thé, cacao et épices",GZ
+46.38A,GS3,"Commerce de gros (commerce interentreprises) de poissons, crustacés et mollusques",GZ
+46.38B,GS3,Commerce de gros (commerce interentreprises) alimentaire spécialisé divers,GZ
+46.39A,GS3,Commerce de gros (commerce interentreprises) de produits surgelés,GZ
+46.39B,GS3,Commerce de gros (commerce interentreprises) alimentaire non spécialisé,GZ
+46.41Z,GS3,Commerce de gros (commerce interentreprises) de textiles,GZ
+46.42Z,GS3,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,GZ
+46.43Z,GS3,Commerce de gros (commerce interentreprises) d'appareils électroménagers,GZ
+46.44Z,GS3,"Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien",GZ
+46.45Z,GS3,Commerce de gros (commerce interentreprises) de parfumerie et de produits de beauté,GZ
+46.46Z,GS3,Commerce de gros (commerce interentreprises) de produits pharmaceutiques,GZ
+46.47Z,GS3,"Commerce de gros (commerce interentreprises) de meubles, de tapis et d'appareils d'éclairage",GZ
+46.48Z,GS3,Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,GZ
+46.49Z,GS3,Commerce de gros (commerce interentreprises) d'autres biens domestiques,GZ
+46.51Z,GS3,"Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels",GZ
+46.52Z,GS3,Commerce de gros (commerce interentreprises) de composants et d'équipements électroniques et de télécommunication,GZ
+46.61Z,GS3,Commerce de gros (commerce interentreprises) de matériel agricole,GZ
+46.62Z,GS3,Commerce de gros (commerce interentreprises) de machines-outils,GZ
+46.63Z,GS3,"Commerce de gros (commerce interentreprises) de machines pour l'extraction, la construction et le génie civil",GZ
+46.64Z,GS3,Commerce de gros (commerce interentreprises) de machines pour l'industrie textile et l'habillement,GZ
+46.65Z,GS3,Commerce de gros (commerce interentreprises) de mobilier de bureau,GZ
+46.66Z,GS3,Commerce de gros (commerce interentreprises) d'autres machines et équipements de bureau,GZ
+46.69A,GS3,Commerce de gros (commerce interentreprises) de matériel électrique,GZ
+46.69B,GS3,Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers,GZ
+46.69C,GS3,Commerce de gros (commerce interentreprises) de fournitures et équipements divers pour le commerce et les services,GZ
+46.71Z,GS3,Commerce de gros (commerce interentreprises) de combustibles et de produits annexes,GZ
+46.72Z,GS3,Commerce de gros (commerce interentreprises) de minerais et métaux,GZ
+46.73A,GS3,Commerce de gros (commerce interentreprises) de bois et de matériaux de construction,GZ
+46.73B,GS3,Commerce de gros (commerce interentreprises) d'appareils sanitaires et de produits de décoration,GZ
+46.74A,GS3,Commerce de gros (commerce interentreprises) de quincaillerie,GZ
+46.74B,GS3,Commerce de gros (commerce interentreprises) de fournitures pour la plomberie et le chauffage,GZ
+46.75Z,GS3,Commerce de gros (commerce interentreprises) de produits chimiques,GZ
+46.76Z,GS3,Commerce de gros (commerce interentreprises) d'autres produits intermédiaires,GZ
+46.77Z,GS3,Commerce de gros (commerce interentreprises) de déchets et débris,GZ
+46.90Z,GS3,Commerce de gros (commerce interentreprises) non spécialisé,GZ
+47.11A,GS3,Commerce de détail de produits surgelés,GZ
+47.11B,GS3,Commerce d'alimentation générale,GZ
+47.11C,GS3,Supérettes,GZ
+47.11D,GS3,Supermarchés,GZ
+47.11E,GS3,Magasins multi-commerces,GZ
+47.11F,GS3,Hypermarchés,GZ
+47.19A,GS3,Grands magasins,GZ
+47.19B,GS3,Autres commerces de détail en magasin non spécialisé,GZ
+47.21Z,GS3,Commerce de détail de fruits et légumes en magasin spécialisé,GZ
+47.22Z,GS3,Commerce de détail de viandes et de produits à base de viande en magasin spécialisé,GZ
+47.23Z,GS3,"Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé",GZ
+47.24Z,GS3,"Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé",GZ
+47.25Z,GS3,Commerce de détail de boissons en magasin spécialisé,GZ
+47.26Z,GS3,Commerce de détail de produits à base de tabac en magasin spécialisé,GZ
+47.29Z,GS3,Autres commerces de détail alimentaires en magasin spécialisé,GZ
+47.30Z,GS3,Commerce de détail de carburants en magasin spécialisé,GZ
+47.41Z,GS3,"Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé",GZ
+47.42Z,GS3,Commerce de détail de matériels de télécommunication en magasin spécialisé,GZ
+47.43Z,GS3,Commerce de détail de matériels audio et vidéo en magasin spécialisé,GZ
+47.51Z,GS3,Commerce de détail de textiles en magasin spécialisé,GZ
+47.52A,GS3,"Commerce de détail de quincaillerie, peintures et verres en petites surfaces (moins de 400 m²)",GZ
+47.52B,GS3,"Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)",GZ
+47.53Z,GS3,"Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé",GZ
+47.54Z,GS3,Commerce de détail d'appareils électroménagers en magasin spécialisé,GZ
+47.59A,GS3,Commerce de détail de meubles,GZ
+47.59B,GS3,Commerce de détail d'autres équipements du foyer,GZ
+47.61Z,GS3,Commerce de détail de livres en magasin spécialisé,GZ
+47.62Z,GS3,Commerce de détail de journaux et papeterie en magasin spécialisé,GZ
+47.63Z,GS3,Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé,GZ
+47.64Z,GS3,Commerce de détail d'articles de sport en magasin spécialisé,GZ
+47.65Z,GS3,Commerce de détail de jeux et jouets en magasin spécialisé,GZ
+47.71Z,GS3,Commerce de détail d'habillement en magasin spécialisé,GZ
+47.72A,GS3,Commerce de détail de la chaussure,GZ
+47.72B,GS3,Commerce de détail de maroquinerie et d'articles de voyage,GZ
+47.73Z,GS3,Commerce de détail de produits pharmaceutiques en magasin spécialisé,GZ
+47.74Z,GS3,Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé,GZ
+47.75Z,GS3,Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé,GZ
+47.76Z,GS3,"Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé",GZ
+47.77Z,GS3,Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé,GZ
+47.78A,GS3,Commerces de détail d'optique,GZ
+47.78B,GS3,Commerces de détail de charbons et combustibles,GZ
+47.78C,GS3,Autres commerces de détail spécialisés divers,GZ
+47.79Z,GS3,Commerce de détail de biens d'occasion en magasin,GZ
+47.81Z,GS3,Commerce de détail alimentaire sur éventaires et marchés,GZ
+47.82Z,GS3,"Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés",GZ
+47.89Z,GS3,Autres commerces de détail sur éventaires et marchés,GZ
+47.91A,GS3,Vente à distance sur catalogue général,GZ
+47.91B,GS3,Vente à distance sur catalogue spécialisé,GZ
+47.99A,GS3,Vente à domicile,GZ
+47.99B,GS3,"Vente par automates et autres commerces de détail hors magasin, éventaires ou marchés n.c.a.",GZ
+49.10Z,GS5,Transport ferroviaire interurbain de voyageurs,HZ
+49.20Z,GS5,Transports ferroviaires de fret,HZ
+49.31Z,GS5,Transports urbains et suburbains de voyageurs,HZ
+49.32Z,GS5,Transports de voyageurs par taxis,HZ
+49.39A,GS5,Transports routiers réguliers de voyageurs,HZ
+49.39B,GS5,Autres transports routiers de voyageurs,HZ
+49.39C,GS5,Téléphériques et remontées mécaniques,HZ
+49.41A,GS5,Transports routiers de fret interurbains,HZ
+49.41B,GS5,Transports routiers de fret de proximité,HZ
+49.41C,GS5,Location de camions avec chauffeur,HZ
+49.42Z,GS5,Services de déménagement,HZ
+49.50Z,GS5,Transports par conduites,HZ
+50.10Z,GS5,Transports maritimes et côtiers de passagers,HZ
+50.20Z,GS5,Transports maritimes et côtiers de fret,HZ
+50.30Z,GS5,Transports fluviaux de passagers,HZ
+50.40Z,GS5,Transports fluviaux de fret,HZ
+51.10Z,GS5,Transports aériens de passagers,HZ
+51.21Z,GS5,Transports aériens de fret,HZ
+51.22Z,GS5,Transports spatiaux,HZ
+52.10A,GS5,Entreposage et stockage frigorifique,HZ
+52.10B,GS5,Entreposage et stockage non frigorifique,HZ
+52.21Z,GS5,Services auxiliaires des transports terrestres,HZ
+52.22Z,GS5,Services auxiliaires des transports par eau,HZ
+52.23Z,GS5,Services auxiliaires des transports aériens,HZ
+52.24A,GS5,Manutention portuaire,HZ
+52.24B,GS5,Manutention non portuaire,HZ
+52.29A,GS5,"Messagerie, fret express",HZ
+52.29B,GS5,Affrètement et organisation des transports,HZ
+53.10Z,GS5,Activités de poste dans le cadre d'une obligation de service universel,HZ
+53.20Z,GS5,Autres activités de poste et de courrier,HZ
+55.10Z,GS4,Hôtels et hébergement similaire,IZ
+55.20Z,GS4,Hébergement touristique et autre hébergement de courte durée,IZ
+55.30Z,GS4,Terrains de camping et parcs pour caravanes ou véhicules de loisirs,IZ
+55.90Z,GS4,Autres hébergements,IZ
+56.10A,GS4,Restauration traditionnelle,IZ
+56.10B,GS4,Cafétérias et autres libres-services,IZ
+56.10C,GS4,Restauration de type rapide,IZ
+56.21Z,GS4,Services des traiteurs,IZ
+56.29A,GS4,Restauration collective sous contrat,IZ
+56.29B,GS4,Autres services de restauration n.c.a.,IZ
+56.30Z,GS4,Débits de boissons,IZ
+58.11Z,GS5,Édition de livres,JA
+58.12Z,GS5,Édition de répertoires et de fichiers d'adresses,JA
+58.13Z,GS5,Édition de journaux,JA
+58.14Z,GS5,Édition de revues et périodiques,JA
+58.19Z,GS5,Autres activités d'édition,JA
+58.21Z,GS5,Édition de jeux électroniques,JA
+58.29A,GS5,Édition de logiciels système et de réseau,JA
+58.29B,GS5,Édition de logiciels outils de développement et de langages,JA
+58.29C,GS5,Édition de logiciels applicatifs,JA
+59.11A,GS5,Production de films et de programmes pour la télévision,JA
+59.11B,GS5,Production de films institutionnels et publicitaires,JA
+59.11C,GS5,Production de films pour le cinéma,JA
+59.12Z,GS5,"Post-production de films cinématographiques, de vidéo et de programmes de télévision",JA
+59.13A,GS5,Distribution de films cinématographiques,JA
+59.13B,GS5,Édition et distribution vidéo,JA
+59.14Z,GS5,Projection de films cinématographiques,JA
+59.20Z,GS5,Enregistrement sonore et édition musicale,JA
+60.10Z,GS5,Édition et diffusion de programmes radio,JA
+60.20A,GS5,Édition de chaînes généralistes,JA
+60.20B,GS5,Édition de chaînes thématiques,JA
+61.10Z,GS5,Télécommunications filaires,JB
+61.20Z,GS5,Télécommunications sans fil,JB
+61.30Z,GS5,Télécommunications par satellite,JB
+61.90Z,GS5,Autres activités de télécommunication,JB
+62.01Z,GS5,Programmation informatique,JC
+62.02A,GS5,Conseil en systèmes et logiciels informatiques,JC
+62.02B,GS5,Tierce maintenance de systèmes et d'applications informatiques,JC
+62.03Z,GS5,Gestion d'installations informatiques,JC
+62.09Z,GS5,Autres activités informatiques,JC
+63.11Z,GS5,"Traitement de données, hébergement et activités connexes",JC
+63.12Z,GS5,Portails Internet,JC
+63.91Z,GS5,Activités des agences de presse,JC
+63.99Z,GS5,Autres services d'information n.c.a.,JC
+64.11Z,GS5,Activités de banque centrale,KZ
+64.19Z,GS5,Autres intermédiations monétaires,KZ
+64.20Z,GS5,Activités des sociétés holding,KZ
+64.30Z,GS5,Fonds de placement et entités financières similaires,KZ
+64.91Z,GS5,Crédit-bail,KZ
+64.92Z,GS5,Autre distribution de crédit,KZ
+64.99Z,GS5,"Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a.",KZ
+65.11Z,GS5,Assurance vie,KZ
+65.12Z,GS5,Autres assurances,KZ
+65.20Z,GS5,Réassurance,KZ
+65.30Z,GS5,Caisses de retraite,KZ
+66.11Z,GS5,Administration de marchés financiers,KZ
+66.12Z,GS5,Courtage de valeurs mobilières et de marchandises,KZ
+66.19A,GS5,Supports juridiques de gestion de patrimoine mobilier,KZ
+66.19B,GS5,"Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, n.c.a.",KZ
+66.21Z,GS5,Évaluation des risques et dommages,KZ
+66.22Z,GS5,Activités des agents et courtiers d'assurances,KZ
+66.29Z,GS5,Autres activités auxiliaires d'assurance et de caisses de retraite,KZ
+66.30Z,GS5,Gestion de fonds,KZ
+68.10Z,GS5,Activités des marchands de biens immobiliers,LZ
+68.20A,GS5,Location de logements,LZ
+68.20B,GS5,Location de terrains et d'autres biens immobiliers,LZ
+68.31Z,GS5,Agences immobilières,LZ
+68.32A,GS5,Administration d'immeubles et autres biens immobiliers,LZ
+68.32B,GS5,Supports juridiques de gestion de patrimoine immobilier,LZ
+69.10Z,GS5,Activités juridiques,MA
+69.20Z,GS5,Activités comptables,MA
+70.10Z,GS5,Activités des sièges sociaux,MA
+70.21Z,GS5,Conseil en relations publiques et communication,MA
+70.22Z,GS5,Conseil pour les affaires et autres conseils de gestion,MA
+71.11Z,GS5,Activités d'architecture,MA
+71.12A,GS5,Activité des géomètres,MA
+71.12B,GS5,"Ingénierie, études techniques",MA
+71.20A,GS5,Contrôle technique automobile,MA
+71.20B,GS5,"Analyses, essais et inspections techniques",MA
+72.11Z,GS5,Recherche-développement en biotechnologie,MB
+72.19Z,GS5,Recherche-développement en autres sciences physiques et naturelles,MB
+72.20Z,GS5,Recherche-développement en sciences humaines et sociales,MB
+73.11Z,GS5,Activités des agences de publicité,MC
+73.12Z,GS5,Régie publicitaire de médias,MC
+73.20Z,GS5,Études de marché et sondages,MC
+74.10Z,GS5,Activités spécialisées de design,MC
+74.20Z,GS5,Activités photographiques,MC
+74.30Z,GS5,Traduction et interprétation,MC
+74.90A,GS5,Activité des économistes de la construction,MC
+74.90B,GS5,"Activités spécialisées, scientifiques et techniques diverses",MC
+75.00Z,GS5,Activités vétérinaires,MC
+77.11A,GS5,Location de courte durée de voitures et de véhicules automobiles légers,NZ
+77.11B,GS5,Location de longue durée de voitures et de véhicules automobiles légers,NZ
+77.12Z,GS5,Location et location-bail de camions,NZ
+77.21Z,GS5,Location et location-bail d'articles de loisirs et de sport,NZ
+77.22Z,GS5,Location de vidéocassettes et disques vidéo,NZ
+77.29Z,GS5,Location et location-bail d'autres biens personnels et domestiques,NZ
+77.31Z,GS5,Location et location-bail de machines et équipements agricoles,NZ
+77.32Z,GS5,Location et location-bail de machines et équipements pour la construction,NZ
+77.33Z,GS5,Location et location-bail de machines de bureau et de matériel informatique,NZ
+77.34Z,GS5,Location et location-bail de matériels de transport par eau,NZ
+77.35Z,GS5,Location et location-bail de matériels de transport aérien,NZ
+77.39Z,GS5,"Location et location-bail d'autres machines, équipements et biens matériels n.c.a.",NZ
+77.40Z,GS5,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",NZ
+78.10Z,GS5,Activités des agences de placement de main-d'œuvre,NZ
+78.20Z,GS5,Activités des agences de travail temporaire,NZ
+78.30Z,GS5,Autre mise à disposition de ressources humaines,NZ
+79.11Z,GS5,Activités des agences de voyage,NZ
+79.12Z,GS5,Activités des voyagistes,NZ
+79.90Z,GS5,Autres services de réservation et activités connexes,NZ
+80.10Z,GS5,Activités de sécurité privée,NZ
+80.20Z,GS5,Activités liées aux systèmes de sécurité,NZ
+80.30Z,GS5,Activités d'enquête,NZ
+81.10Z,GS5,Activités combinées de soutien lié aux bâtiments,NZ
+81.21Z,GS5,Nettoyage courant des bâtiments,NZ
+81.22Z,GS5,Autres activités de nettoyage des bâtiments et nettoyage industriel,NZ
+81.29A,GS5,"Désinfection, désinsectisation, dératisation",NZ
+81.29B,GS5,Autres activités de nettoyage n.c.a.,NZ
+81.30Z,GS5,Services d'aménagement paysager,NZ
+82.11Z,GS5,Services administratifs combinés de bureau,NZ
+82.19Z,GS5,"Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau",NZ
+82.20Z,GS5,Activités de centres d'appels,NZ
+82.30Z,GS5,"Organisation de foires, salons professionnels et congrès",NZ
+82.91Z,GS5,Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle,NZ
+82.92Z,GS5,Activités de conditionnement,NZ
+82.99Z,GS5,Autres activités de soutien aux entreprises n.c.a.,NZ
+84.11Z,GS7,Administration publique générale,OZ
+84.12Z,GS7,"Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale",OZ
+84.13Z,GS7,Administration publique (tutelle) des activités économiques,OZ
+84.21Z,GS7,Affaires étrangères,OZ
+84.22Z,GS7,Défense,OZ
+84.23Z,GS7,Justice,OZ
+84.24Z,GS7,Activités d'ordre public et de sécurité,OZ
+84.25Z,GS7,Services du feu et de secours,OZ
+84.30A,GS7,Activités générales de sécurité sociale,OZ
+84.30B,GS7,Gestion des retraites complémentaires,OZ
+84.30C,GS7,Distribution sociale de revenus,OZ
+85.10Z,GS7,Enseignement pré-primaire,PZ
+85.20Z,GS7,Enseignement primaire,PZ
+85.31Z,GS7,Enseignement secondaire général,PZ
+85.32Z,GS7,Enseignement secondaire technique ou professionnel,PZ
+85.41Z,GS7,Enseignement post-secondaire non supérieur,PZ
+85.42Z,GS7,Enseignement supérieur,PZ
+85.51Z,GS7,Enseignement de disciplines sportives et d'activités de loisirs,PZ
+85.52Z,GS7,Enseignement culturel,PZ
+85.53Z,GS7,Enseignement de la conduite,PZ
+85.59A,GS7,Formation continue d'adultes,PZ
+85.59B,GS7,Autres enseignements,PZ
+85.60Z,GS7,Activités de soutien à l'enseignement,PZ
+86.10Z,GS7,Activités hospitalières,QA
+86.21Z,GS7,Activité des médecins généralistes,QA
+86.22A,GS7,Activités de radiodiagnostic et de radiothérapie,QA
+86.22B,GS7,Activités chirurgicales,QA
+86.22C,GS7,Autres activités des médecins spécialistes,QA
+86.23Z,GS7,Pratique dentaire,QA
+86.90A,GS7,Ambulances,QA
+86.90B,GS7,Laboratoires d'analyses médicales,QA
+86.90C,GS7,Centres de collecte et banques d'organes,QA
+86.90D,GS7,Activités des infirmiers et des sages-femmes,QA
+86.90E,GS7,"Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues",QA
+86.90F,GS7,Activités de santé humaine non classées ailleurs,QA
+87.10A,GS7,Hébergement médicalisé pour personnes âgées,QB
+87.10B,GS7,Hébergement médicalisé pour enfants handicapés,QB
+87.10C,GS7,Hébergement médicalisé pour adultes handicapés et autre hébergement médicalisé,QB
+87.20A,GS7,Hébergement social pour handicapés mentaux et malades mentaux,QB
+87.20B,GS7,Hébergement social pour toxicomanes,QB
+87.30A,GS7,Hébergement social pour personnes âgées,QB
+87.30B,GS7,Hébergement social pour handicapés physiques,QB
+87.90A,GS7,Hébergement social pour enfants en difficultés,QB
+87.90B,GS7,Hébergement social pour adultes et familles en difficultés et autre hébergement social,QB
+88.10A,GS7,Aide à domicile,QB
+88.10B,GS7,Accueil ou accompagnement sans hébergement d'adultes handicapés ou de personnes âgées,QB
+88.10C,GS7,Aide par le travail,QB
+88.91A,GS7,Accueil de jeunes enfants,QB
+88.91B,GS7,Accueil ou accompagnement sans hébergement d'enfants handicapés,QB
+88.99A,GS7,Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents,QB
+88.99B,GS7,Action sociale sans hébergement n.c.a.,QB
+90.01Z,GS5,Arts du spectacle vivant,RZ
+90.02Z,GS5,Activités de soutien au spectacle vivant,RZ
+90.03A,GS5,Création artistique relevant des arts plastiques,RZ
+90.03B,GS5,Autre création artistique,RZ
+90.04Z,GS5,Gestion de salles de spectacles,RZ
+91.01Z,GS5,Gestion des bibliothèques et des archives,RZ
+91.02Z,GS5,Gestion des musées,RZ
+91.03Z,GS5,Gestion des sites et monuments historiques et des attractions touristiques similaires,RZ
+91.04Z,GS5,Gestion des jardins botaniques et zoologiques et des réserves naturelles,RZ
+92.00Z,GS5,Organisation de jeux de hasard et d'argent,RZ
+93.11Z,GS5,Gestion d'installations sportives,RZ
+93.12Z,GS5,Activités de clubs de sports,RZ
+93.13Z,GS5,Activités des centres de culture physique,RZ
+93.19Z,GS5,Autres activités liées au sport,RZ
+93.21Z,GS5,Activités des parcs d'attractions et parcs à thèmes,RZ
+93.29Z,GS5,Autres activités récréatives et de loisirs,RZ
+94.11Z,GS5,Activités des organisations patronales et consulaires,SZ
+94.12Z,GS5,Activités des organisations professionnelles,SZ
+94.20Z,GS5,Activités des syndicats de salariés,SZ
+94.91Z,GS5,Activités des organisations religieuses,SZ
+94.92Z,GS5,Activités des organisations politiques,SZ
+94.99Z,GS5,Autres organisations fonctionnant par adhésion volontaire,SZ
+95.11Z,GS5,Réparation d'ordinateurs et d'équipements périphériques,SZ
+95.12Z,GS5,Réparation d'équipements de communication,SZ
+95.21Z,GS5,Réparation de produits électroniques grand public,SZ
+95.22Z,GS5,Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin,SZ
+95.23Z,GS5,Réparation de chaussures et d'articles en cuir,SZ
+95.24Z,GS5,Réparation de meubles et d'équipements du foyer,SZ
+95.25Z,GS5,Réparation d'articles d'horlogerie et de bijouterie,SZ
+95.29Z,GS5,Réparation d'autres biens personnels et domestiques,SZ
+96.01A,GS5,Blanchisserie-teinturerie de gros,SZ
+96.01B,GS5,Blanchisserie-teinturerie de détail,SZ
+96.02A,GS5,Coiffure,SZ
+96.02B,GS5,Soins de beauté,SZ
+96.03Z,GS5,Services funéraires,SZ
+96.04Z,GS5,Entretien corporel,SZ
+96.09Z,GS5,Autres services personnels n.c.a.,SZ
+97.00Z,#N/A,Activités des ménages en tant qu'employeurs de personnel domestique,TZ
+98.10Z,#N/A,Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre,TZ
+98.20Z,#N/A,Activités indifférenciées des ménages en tant que producteurs de services pour usage propre,TZ
+99.00Z,#N/A,Activités des organisations et organismes extraterritoriaux,UZ
