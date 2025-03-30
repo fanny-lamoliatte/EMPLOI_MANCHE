@@ -1,4 +1,4 @@
 <p align="center">
-   <img align="center" width="50%" src="https://github.com/fanny-lamoliatte/DATAJOB_2024/blob/main/datajob_logo_rouge.PNG?raw=true" />
+   <img align="center" width="50%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/la_manche_logo.png" />
 </p>
 <br>
