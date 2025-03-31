@@ -3,12 +3,21 @@
 </p>
 <br>
 
+https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20entreprises%20par%20commune.PNG
 
 </p>
 <br>
 <br>
 
-## <ins> BASES DE DONNEES </ins> ##
+## <ins> PRESENTATION DES DONNEES </ins> ##
+
+### Dans le cadre de cette étude, nous utiliserons des données en open source disponibles sur des plateformes telles que Data.gouv, l'INSEE et l'Observatoire des territoires, couvrant la période 2018-2021.
+
+
+- **Besoin en main d'oeuvre**
+
+
+<br>
 ###  2018 et 2021, rassemblant les réponses de plus de 20 000 participants..
 <br>
 
