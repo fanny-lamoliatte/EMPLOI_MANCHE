@@ -10,8 +10,9 @@
 ### Dans le cadre de cette étude, nous exploiterons des données en open source issues de plateformes telles que Data.gouv, l'INSEE et l'Observatoire des territoires, couvrant la période 2018-2021. 
 
 ### Notre analyse portant sur l'emploi dans La Manche, nous nous appuierons sur l'annuaire des entreprises manchoises notre base de données principale sera celle des entreprises implantées dans le département, réparties par commune.
+<br>
 
-- Annuaire des entreprises manchoises
+- **<ins>Annuaire des entreprises manchoises</ins>**
 <p align="center">
    <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20entreprises%20par%20commune.PNG" />
 </p>
