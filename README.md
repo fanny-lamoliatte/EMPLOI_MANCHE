@@ -2,10 +2,6 @@
    <img align="center" width="50%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/la_manche_logo.png" />
 </p>
 <br>
-
-https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20entreprises%20par%20commune.PNG
-
-</p>
 <br>
 <br>
 
