@@ -11,6 +11,7 @@
 
 ### Notre analyse portant sur l'emploi dans La Manche, nous nous appuierons sur l'annuaire des entreprises manchoises notre base de données principale sera celle des entreprises implantées dans le département, réparties par commune.
 <br>
+<br>
 
 - **<ins>Annuaire des entreprises manchoises</ins>**
 <p align="center">
