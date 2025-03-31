@@ -12,3 +12,6 @@
 ### Les données analysées proviennent de sondages Kaggle menés entre 2018 et 2022, rassemblant les réponses de plus de 20 000 participants..
 <br>
 Besoin en main d'oeuvre de 2018 à 2021:  https://www.data.gouv.fr/fr/datasets/enquete-besoins-en-main-doeuvre-bmo/ 
+
+
+https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/BDD%20CLEAN/BMO%202018%20__%20CLEAN.xlsx
