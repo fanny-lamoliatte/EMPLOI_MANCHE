@@ -5,7 +5,21 @@
 <br>
 <br>
 
+## <ins> OBJECTIF </ins> ##
+<br>
+
+Etablissement du profil de la Manche selon :
+- Ses 5 principaux secteurs d’activités
+- Ses types d’entreprises (ETI, PME, GE) ainsi que leurs localisations
+- Son marché du travail (besoin en main d’œuvre, déclaration préalable à l’embauche, types d’emploi pourvus)
+- Ses critères de logement
+- Sa cartographie dynamique de la politique publique territoriale visant à rendre ce département plus attractif
+<br>
+
+
+
 ## <ins> PRESENTATION DES DONNEES </ins> ##
+<br>
 
 ### Dans le cadre de cette étude, nous exploiterons des données en open source issues de plateformes telles que Data.gouv, l'INSEE, l'Observatoire des territoires..., couvrant la période 2018-2021. 
 <br>
