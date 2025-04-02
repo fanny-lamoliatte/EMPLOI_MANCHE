@@ -32,7 +32,7 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 
 ### **<ins>Annuaire des entreprises manchoises</ins>**
 <p align="center">
-   <img align="center" width="50%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20%C3%A9tablissements%20%C3%A9conomiques.PNG" />
+   <img align="center" width="80%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20%C3%A9tablissements%20%C3%A9conomiques.PNG" />
 </p>
 
 
