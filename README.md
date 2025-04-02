@@ -32,27 +32,10 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 
 ### **<ins>Annuaire des entreprises manchoises</ins>**
 <p align="center">
-   <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20entreprises%20par%20commune.PNG" />
+   <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Base%20des%20%C3%A9tablissements%20%C3%A9conomiques.PNG" />
 </p>
 
 
 
 
-
-
-
-- **Besoin en main d'oeuvre**
-
-
-<br>
-###  2018 et 2021, rassemblant les réponses de plus de 20 000 participants..
-<br>
-
-
-- **Besoin en main d'oeuvre** https://www.data.gouv.fr/fr/datasets/enquete-besoins-en-main-doeuvre-bmo
-- **Déclaration préalable à l'embauche** https://open.urssaf.fr/explore/embed/dataset/dpae-par-departement-x-grand-secteur/table/?q=manche&refine.annee=2018\
-- 
-- **2020** https://www.kaggle.com/c/kaggle-survey-2020/data?select=kaggle_survey_2020_responses.csv\
-- **2021** https://www.kaggle.com/c/kaggle-survey-2021/data?select=kaggle_survey_2021_responses.csv\
-- **2022** https://www.kaggle.com/c/kaggle-survey-2022/data?select=kaggle_survey_2022_responses.csv\
 
