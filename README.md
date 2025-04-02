@@ -123,4 +123,23 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 ### Par ailleurs, le tourisme y occupe une place plus que significative.
 ### Marquée par une identité rurale affirmée, la Manche compte 31 % de communes hors de toute influence urbaine, contre une moyenne nationale de 21 %. 
 ### Pour renforcer son attractivité, l’État et les collectivités locales ont déployé divers programmes de politique publique : aides financières, exonérations fiscales, réhabilitation des centres-villes et de l’habitat, contribuant ainsi au renouveau du territoire.
+<br> 
+<br> 
 
+## <ins> LIMITES DE L'ETUDE </ins>
+<br> 
+
+- Impossibilité de mise en place d’une relation directe entre les besoins en mains d’œuvre et les déclarations préalables à l’embauche
+- Inexistence d’une table de correspondance administrative entre les codes métiers BMO et DPAE, d'où l'impossibilité de mise en relation directe entre ces 2 tables
+- Nombreuses tentatives de contournement par le biais d'autres tables normalisées du secteur de l'emploi (codes ROME, NAF, APE)
+- Etablissement final d'une relation secondaire via des tables de fait
+
+  ### Dans un esprit de précision, cette étude gagnerait à être consolidée par des informations plus précuses, notamment sur les infrastructures, les logements et services prooposés aux populations, mais aussi par un approfondissement des caractéristiques propres des entreprises manchoises.
+
+
+	Limitesn
+ne contournement par chargement et utilisation d’autres tables normalisées du secteur de l’emploi (codes ROME, NAF, APE)
+
+	Consolidations par d’autres BDD plus précises 
+•	Logements, infrastructures et services 
+•	Caractéristiques propres des entreprises
