@@ -22,15 +22,13 @@ Tout au long de cette étude, nous nous baserons sur notre **base de données pr
 <br>
 
 Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité GS)**</ins>
-
 <br>
 <br>
 
 <p align="center">
    <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Organisation%20des%20tables%20du%20rapport.PNG" />
 </p>
-
-
+<br>
 
 ### **<ins>Annuaire des entreprises manchoises</ins>**
 <p align="center">
