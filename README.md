@@ -8,7 +8,7 @@
 ## <ins> OBJECTIF </ins> ##
 <br>
 
-Etablissement du profil de la Manche selon :
+### **<ins>Etablissement du profil de la Manche selon :</ins>**
 - Ses 5 principaux secteurs d’activités
 - Ses types d’entreprises (ETI, PME, GE) ainsi que leurs localisations
 - Son marché du travail (besoin en main d’œuvre, déclaration préalable à l’embauche, types d’emploi pourvus)
