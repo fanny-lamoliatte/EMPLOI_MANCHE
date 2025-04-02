@@ -101,9 +101,12 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
   - Création de visuels (cartes géographiques interractives, treemap, pie charts, …)
   - Mise en place de liens hypertextes, offres d'emploi, présentation des entreprises
   - Création de filtrations dynamiques, de widgets ...
-  
+ <br> 
 
-
+### **<ins>Le marché de l'emploi dans la Manche</ins>**
+<p align="left">
+   <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/March%C3%A9%20de%20l'emploi.PNG" /> 
+</p>
 
 
 
