@@ -7,7 +7,7 @@
 
 ## <ins> PRESENTATION DES DONNEES </ins> ##
 
-### Dans le cadre de cette étude, nous exploiterons des données en open source issues de plateformes telles que Data.gouv, l'INSEE et l'Observatoire des territoires, couvrant la période 2018-2021. 
+### Dans le cadre de cette étude, nous exploiterons des données en open source issues de plateformes telles que Data.gouv, l'INSEE, l'Observatoire des territoires..., couvrant la période 2018-2021. 
 
 Notre base de données de référence sera l'annuaire des entrepresis
 <br>
