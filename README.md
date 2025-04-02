@@ -85,17 +85,25 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
   - Table correspondance ROME_GS 2 Ko
   - Table correspondance ROME_NAF (branche activité principale entreprise) 150 Ko
   - Table sous classe NAF_APE 50 Ko
+<br>
 
+- <ins>**Data cleaning général sur GoogleColab**</ins>
+ - Filtrations des données sur le territoire de la Manche, ainsi que sur la plage 2018/2021
+ - Suppressions des données non pertinentes à l’étude
+ - Gestion des tables de conversion afin d'établir des relations avec les autres bases de données
+ - Téléchargement des datasets sur Power BI
+<br>
+
+- <ins>**Data cleaning approfondi sur Power BI**</ins>
+  - Uniformisations des noms de colonnes, des types, des données numériques
+  - Normalisations des modalités en vue de l'établissement de futures mesures DAX
+  - Création de tables de fait FACT, afin de lier les différentes tables entre elles
+  - Création de visuels (cartes géographiques interractives, treemap, pie charts, …)
+  - Mise en place de liens hypertextes, offres d'emploi, présentation des entreprises
+  - Création de filtrations dynamiques, de widgets ...
   
 
-	Data Cleaning général 
-Filtrations des données sur le territoire de la Manche
-Suppressions des données non pertinentes à l’étude
-Chargements des datasets sur Power BI
-Data Cleaning en détails Power Query
-Uniformisation des colonnes, noms, types
-Normalisations des modalités pour futures mesures DAX
-Création d’une table de fait FACT
-Mises en place de relations entre les tables
-Création de visuels (cartes géographiques, treemap, pie charts, …)
-Mises en place de filtrations dynamiques, de widgets …
+
+
+
+
