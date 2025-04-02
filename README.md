@@ -6,7 +6,7 @@
 <br>
 
 ## <ins> OBJECTIF </ins> ##
-<br>
+
 
 ### **<ins>Etablissement du profil de la Manche selon :</ins>**
 - Ses 5 principaux secteurs d’activités
@@ -15,8 +15,6 @@
 - Ses critères de logement
 - Sa cartographie dynamique de la politique publique territoriale visant à rendre ce département plus attractif
 <br>
-
-
 
 ## <ins> PRESENTATION DES DONNEES </ins> ##
 <br>
