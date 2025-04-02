@@ -134,12 +134,7 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 - Nombreuses tentatives de contournement par le biais d'autres tables normalisées du secteur de l'emploi (codes ROME, NAF, APE)
 - Etablissement final d'une relation secondaire via des tables de fait
 
-  ### Dans un esprit de précision, cette étude gagnerait à être consolidée par des informations plus précuses, notamment sur les infrastructures, les logements et services prooposés aux populations, mais aussi par un approfondissement des caractéristiques propres des entreprises manchoises.
+  #### Dans un esprit de précision, cette étude gagnerait à être consolidée par des informations plus précises, notamment sur les infrastructures, le logement et les services proposés aux populations, ainsi que par un approfondissement des spécificités des entreprises manchoises.
 
 
-	Limitesn
-ne contournement par chargement et utilisation d’autres tables normalisées du secteur de l’emploi (codes ROME, NAF, APE)
 
-	Consolidations par d’autres BDD plus précises 
-•	Logements, infrastructures et services 
-•	Caractéristiques propres des entreprises
