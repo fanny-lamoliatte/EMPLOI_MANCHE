@@ -21,7 +21,7 @@ Tout au long de cette étude, nous nous baserons sur notre **base de données pr
  - la polique publique du département pour attirer les populations
 <br>
 
-Nous aurons de plus recours à la table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité
+Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité GS)**</ins>
 
    
 
