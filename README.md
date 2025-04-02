@@ -131,7 +131,7 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 - Impossibilité de mise en place d’une relation directe entre les besoins en mains d’œuvre et les déclarations préalables à l’embauche
 - Inexistence d’une table de correspondance administrative entre les codes métiers BMO et DPAE, d'où l'impossibilité de mise en relation directe entre ces 2 tables
 - Nombreuses tentatives de contournement par le biais d'autres tables normalisées du secteur de l'emploi (codes ROME, NAF, APE)
-- Etablissement final d'une relation secondaire via des tables de fait
+- Etablissement final d'une **relation secondaire** via des tables de fait
 
   #### Dans un esprit de précision, cette étude gagnerait à être consolidée par des informations plus précises, notamment sur les infrastructures, le logement et les services proposés aux populations, ainsi que par un approfondissement des spécificités des entreprises manchoises.
 
