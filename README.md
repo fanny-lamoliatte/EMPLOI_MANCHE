@@ -36,9 +36,15 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 </p>
 <br>
 
-
-### **<ins>Besoins en mein d'oeuvre</ins>**
+### **<ins>Besoins en main d'oeuvre</ins>**
 <p align="center">
    <img align="center" width="85%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/BMO.PNG" />
 </p>
+<br>
+
+### **<ins>Déclarations préalables à l'embauche</ins>**
+<p align="center">
+   <img align="center" width="85%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/DPAE.PNG" />
+</p>
+<br>
 
