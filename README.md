@@ -88,10 +88,10 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 <br>
 
 - <ins>**Data cleaning général sur GoogleColab**</ins>
- - Filtrations des données sur le territoire de la Manche, ainsi que sur la plage 2018/2021
- - Suppressions des données non pertinentes à l’étude
- - Gestion des tables de conversion afin d'établir des relations avec les autres bases de données
- - Téléchargement des datasets sur Power BI
+  - Filtrations des données sur le territoire de la Manche, ainsi que sur la plage 2018/2021
+  - Suppressions des données non pertinentes à l’étude
+  - Gestion des tables de conversion afin d'établir des relations avec les autres bases de données
+  - Téléchargement des datasets sur Power BI
 <br>
 
 - <ins>**Data cleaning approfondi sur Power BI**</ins>
