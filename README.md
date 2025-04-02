@@ -17,7 +17,12 @@ Tout au long de cette étude, nous nous baserons sur notre **base de données pr
  - la démographie du département
  - le logement
  - les besoins en main d'oeuvre (BMO) des entreprises
- - les déclarations préalables à l'embauche de strutures économiques locales
+ - les déclarations préalables à l'embauche (DPAE) de strutures économiques locales
+ - la polique publique du département pour attirer les populations
+<br>
+
+Nous aurons de plus recours à la table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité
+
    
 
 <br>
