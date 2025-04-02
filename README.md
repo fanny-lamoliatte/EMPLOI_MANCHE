@@ -116,4 +116,12 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 </p>
 <br> 
 
+## <ins> CONCLUSIONS </ins> ##
+
+Il ressort de cette étude que la Manche, bien qu’étant un territoire considéré comme "fragile", **tend depuis 2021 à favoriser l’emploi pérenne afin d’attirer de nouvelles populations.**
+**Premier département agricole de France**, elle se distingue par une **forte activité de transformation agroalimentaire**, complétée par une **tradition ancrée de pêche, de transport et de construction navale.** 
+Ces secteurs dynamisent également le **commerce local.**
+Par ailleurs, le **tourisme y occupe une place plus que significative.**
+Marquée par une** identité rurale affirmée**, la Manche compte **31 % de communes hors de toute influence urbaine**, contre une moyenne nationale de 21 %. 
+Pour renforcer son attractivité, l’État et les collectivités locales ont déployé **divers programmes de politique publique** : aides financières, exonérations fiscales, réhabilitation des centres-villes et de l’habitat, contribuant ainsi au renouveau du territoire.
 
