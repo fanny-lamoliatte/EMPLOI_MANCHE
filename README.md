@@ -32,7 +32,7 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 
 
 <p align="center">
-   <img align="center" width="100%" src="VISUALISATION DATA/Organisation des tables du rapport.PNG" />
+   <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Organisation%20des%20tables%20du%20rapport.PNG" />
 </p>
 
 
