@@ -53,3 +53,9 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
    <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/D%C3%A9mographie_Logement.PNG" />
 </p>
 <br>
+
+### **<ins>Table de conversion/ins>**
+<p align="center">
+   <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Table%20de%20conversion%20NAF__GS.PNG" />
+</p>
+<br>
