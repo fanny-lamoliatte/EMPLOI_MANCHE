@@ -12,6 +12,7 @@
 
 Tout au long de cette étude, nous nous baserons sur notre **base de données principale, les entreprises manchoises**, leurs types, leurs localisations, les différents contrats de travail qu'elles proposent ... 
 <br>
+
 <ins>**Elle sera consolidée par des données portant sur:**</ins>
  - la démographie du département
  - le logement
