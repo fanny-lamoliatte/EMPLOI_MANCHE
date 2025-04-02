@@ -74,7 +74,7 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 
 ## <ins> METHODOLOGIE </ins> ##
 
-- <ins>**Important travail de collecte data** ce projet ayant été réalisé en totale autonomie</ins>
+- <ins>**Important travail de collecte data ce projet ayant été réalisé en totale autonomie**</ins>
   - BDD de référence : établissements professionnels dans la Manche 1.5 Mo
   - Besoins en main (BMO) 4 BDD 3 000 Ko chacune
   - Besoins en main (BMO) 4 BDD 3 000 Ko chacune
