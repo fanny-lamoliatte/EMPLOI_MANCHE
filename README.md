@@ -69,6 +69,7 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 <p align="center">
    <img align="left" width="70%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Politique%20publique.PNG" /> 
 </p>
+
 <br>
 <br>
 
