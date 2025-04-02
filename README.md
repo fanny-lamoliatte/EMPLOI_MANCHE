@@ -65,13 +65,13 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 <br>
 
 ### **<ins>Table de conversion</ins>**
-<p align="center">
+<p align="left">
    <img align="center" width="20%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Table%20de%20conversion%20NAF__GS.PNG" />
 </p>
 <br>
 
 ### **<ins>Politique publique</ins>**
 <p align="center">
-   <img align="center" width="20%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Politique%20publique.PNG" />
+   <img align="left" width="20%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Politique%20publique.PNG" />
 </p>
 <br>
