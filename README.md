@@ -107,6 +107,12 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 <p align="left">
    <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/March%C3%A9%20de%20l'emploi.PNG" /> 
 </p>
+<br> 
 
+### **<ins>Politique publique mise en place dans la Manche</ins>**
+<p align="left">
+   <img align="center" width="100%" src="https://github.com/fanny-lamoliatte/EMPLOI_MANCHE/blob/Emploi_Manche/VISUALISATION%20DATA/Politique%20publique%20screen.PNG" /> 
+</p>
+<br> 
 
 
