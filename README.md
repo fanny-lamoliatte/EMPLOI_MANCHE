@@ -10,8 +10,8 @@
 ### Dans le cadre de cette étude, nous exploiterons des données en open source issues de plateformes telles que Data.gouv, l'INSEE, l'Observatoire des territoires..., couvrant la période 2018-2021. 
 <br>
 
-Tout au long de cette étude, nous nous baserons sur notre **base de données principales, les entreprises manchoises**, leurs types, leurs localisations, les différents contrats de travail qu'elles proposent ..
-<ins>*Elle sera consolidée par des données portant sur:*</ins>
+Tout au long de cette étude, nous nous baserons sur notre **base de données principale, les entreprises manchoises**, leurs types, leurs localisations, les différents contrats de travail qu'elles proposent ../
+<ins>**Elle sera consolidée par des données portant sur:**</ins>
  - la démographie du département
  - le logement
  - les besoins en main d'oeuvre (BMO) des entreprises
