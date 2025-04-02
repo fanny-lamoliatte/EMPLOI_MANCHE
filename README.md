@@ -27,7 +27,7 @@ Nous nous baserons sur notre **base de données principale, les entreprises manc
  - la démographie du département
  - le logement
  - les besoins en main d'oeuvre (BMO) des entreprises
- - les déclarations préalables à l'embauche (DPAE) de strutures économiques locales
+ - les déclarations préalables à l'embauche (DPAE) des strutures économiques locales
  - la polique publique du département pour attirer les populations
 <br>
 
