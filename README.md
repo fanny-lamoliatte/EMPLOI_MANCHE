@@ -74,4 +74,32 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 
 ## <ins> METHODOLOGIE </ins> ##
 
-- **Important travail de collecte data**
+- **Important travail de collecte data** ce projet ayant été réalisé en totale autonomie
+- 
+
+
+
+
+	Important travail de collecte de data 
+•	Etude réalisée entre 2018 et 2021
+•	BDD de référence : établissements professionnels dans la Manche
+•	Besoins en main (BMO) 4 BDD 3 000 Ko chacune
+•	Déclarations préalables à l’embauche (DPAE) 42 000 Ko
+•	Démographie, logements sociaux 1 000 Ko
+•	Politique publique 30 000 Ko
+•	Table correspondance APE (activité principale) GS grands secteurs activités 50 Ko
+•	Table correspondance ROME GS 2 Ko
+•	Table correspondance ROME NAF (branche activité principale entreprise) 150 Ko
+•	Table sous classe NAF APE 50 Ko
+
+	Data Cleaning général 
+Filtrations des données sur le territoire de la Manche
+Suppressions des données non pertinentes à l’étude
+Chargements des datasets sur Power BI
+Data Cleaning en détails Power Query
+Uniformisation des colonnes, noms, types
+Normalisations des modalités pour futures mesures DAX
+Création d’une table de fait FACT
+Mises en place de relations entre les tables
+Création de visuels (cartes géographiques, treemap, pie charts, …)
+Mises en place de filtrations dynamiques, de widgets …
