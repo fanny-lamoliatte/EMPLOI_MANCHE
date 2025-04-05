@@ -95,7 +95,6 @@ Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nome
 
 - <ins>**Data cleaning approfondi sur Power BI**</ins>
   - Uniformisations des noms de colonnes, des types, des données numériques
-  - Normalisations des modalités en vue de l'établissement de futures mesures DAX
   - Création de tables de fait FACT, afin de lier les différentes tables entre elles
   - Création de visuels (cartes géographiques interractives, treemap, pie charts, …)
   - Mise en place de liens hypertextes, offres d'emploi, présentation des entreprises
