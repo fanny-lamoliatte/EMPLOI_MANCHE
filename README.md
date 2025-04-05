@@ -17,18 +17,18 @@
 
 ## <ins> PRESENTATION DES DONNEES </ins> ##
 
-### Dans le cadre de cette étude, nous exploiterons des données en open source issues de plateformes telles que Data.gouv, l'INSEE, l'Observatoire des territoires..., couvrant la période 2018-2021. 
+Dans le cadre de cette étude, nous exploiterons des **données en open source issues de plateformes telles que Data.gouv, l'INSEE, l'Observatoire des territoires..., couvrant la période 2018-2021.** 
 <br>
 
 Nous nous baserons sur notre **base de données principale, les entreprises manchoises**, leurs types, leurs localisations, les différents contrats de travail qu'elles proposent ... 
 <br>
 
 <ins>**Elle sera consolidée par des données portant sur:**</ins>
- - la démographie du département
- - le logement
- - les besoins en main d'oeuvre (BMO) des entreprises
- - les déclarations préalables à l'embauche (DPAE) des strutures économiques locales
- - la polique publique du département pour attirer les populations
+ - la **démographie** du département
+ - le **logement**
+ - les **besoins en main d'oeuvre** (BMO) des entreprises
+ - les **déclarations préalables à l'embauche** (DPAE) des strutures économiques locales
+ - la **polique publique** du département pour attirer les populations
 <br>
 
 Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité GS)**</ins>
