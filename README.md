@@ -31,7 +31,7 @@ Notre **base de données principale** traitera  des **entreprises manchoises**, 
  - la **polique publique** du département pour attirer les populations
 <br>
 
-Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité GS)**</ins>
+Nous aurons de plus recours à la <ins>**table de conversion des codes NAF (nomenclature d'actiivité) vers les grands secteurs d'activité (GS)**</ins>
 <br>
 <br>
 
